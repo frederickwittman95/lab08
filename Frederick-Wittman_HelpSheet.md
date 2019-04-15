@@ -100,4 +100,6 @@ class ClassName:
 
 One drawback is that bit-arrays are inefficient at storing sparse sets (sets that do not have many elements compared with their range).Another drawback is that accessing individual elements can be time consuming and difficult to code in some languages.
 
-### 11. What is thenameofthefunctionalitythatallowsthe.appendfunctioninPython.Doyouthinkitisuseful?
+### 11. What is the name of the functionality that allows the .append function in Python. Do you think it is useful?
+
+The .append functionality is enabled by the fact that Python lists support dynamic memory allocation.  I prefer Python lists over the staticly sized arrays of C++.  I am sure there is a trade off, however.  
