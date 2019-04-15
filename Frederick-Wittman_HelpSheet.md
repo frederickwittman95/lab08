@@ -4,7 +4,7 @@ Dr. Hill
 
 COSC 2030-01
 
-8 April 2019
+15 April 2019
 
 ### 1.  To comment C++ code:
 
