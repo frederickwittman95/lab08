@@ -1,8 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[12]:
-
+# Frederick Wittman
+# Dr. Hill
+# COSC 2030-01
+# 15 April 2019
 
 # User provides board size, N.
 def getBoardSize():
@@ -80,21 +79,3 @@ def solveNQ():
         print("No solution exists for a board with dimension", str(N) + ".")
 
 solveNQ()
-
-
-# In[ ]:
-
-
-def getBoardSize():
-    n = input("Please provide the dimension of the chessboard.")
-    return n
-
-N = getBoardSize()
-print(N)
-
-
-# In[ ]:
-
-
-
-
